@@ -1,5 +1,5 @@
 
-# Python Notes: Sets and Second Largest Element
+#  Sets and Second Largest Element
 
 ## What I Learned
 - **Set in Python**: A collection of unique, unordered elements.
@@ -36,4 +36,3 @@ except IndexError:
 
 ---
 
-Keep practicing!
